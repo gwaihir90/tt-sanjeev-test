@@ -8,13 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+This is a test to see if the flow works as intended 
 
 ## How to test
 
-Explain how to use your project
+It is a simple NOT gate -- I'll add a unit test to invert it soon! 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+I'll use my FPGA to verify that this design works as intended 
